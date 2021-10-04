@@ -3,18 +3,18 @@ package com.sh.practice;
 public class PrintPractice1 {
 	
 	public void practice1() {
-		// "°­ÇÑÄ£±¸ ´ëÇÑÀ°±º"À» µÎ¹ø Ãâ·ÂÇÏ±â
+		// "ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°"ì„ ë‘ë²ˆ ì¶œë ¥í•˜ê¸°
 		
-		String[] str = new String[2];
+		String[] str = new String[5];
 		
 	      for(int i=0; i<str.length; i++) {
-	        System.out.println("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º");
+	        System.out.println("ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°");
 	        
 	    }
 	}
 
 	public void practice2() {
-		// Á¤¼ö¸¦ º¯¼ö ¼±¾ğÀ» ÇÏ°í -100À» Ãâ·ÂÇÏ±â
+		// ì •ìˆ˜ë¥¼ ë³€ìˆ˜ ì„ ì–¸ì„ í•˜ê³  -100ì„ ì¶œë ¥í•˜ê¸°
 		
 		int i = -100;
 		System.out.println(i);
@@ -45,7 +45,7 @@ public class PrintPractice1 {
 	}
 	
 	public void practice6( ) { 
-		// 5 * 2 = 10 Ãâ·ÂÇÏ±â
+		// 5 * 2 = 10 ì¶œë ¥í•˜ê¸°
 		
 		for(int dan=2; dan<=9; dan++){
 			System.out.printf(" ----- %d ----- \n", dan);
